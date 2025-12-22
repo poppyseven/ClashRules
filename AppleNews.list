@@ -18,5 +18,6 @@ DOMAIN,prod-newsletter-edge.v.aaplimg.com
 DOMAIN,k128-inapp.gslb.ksyuncdn.com
 DOMAIN,news-app-events.apple.com
 DOMAIN,fpinit.itunes.apple.com
+DOMAIN,news.iadsdk.apple.com
 IP-CIDR,17.138.128.4
 DOMAIN-SUFFIX,apple.news
